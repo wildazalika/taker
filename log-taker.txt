@@ -2738,3 +2738,15 @@
 4/3/2025 | 12:39:05 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:39:09 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:39:09 AM | ERROR | Failed to retrieve nonce for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/3/2025 | 4:10:34 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:10:34 AM | INFO | Start process for wallet 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/3/2025 | 4:10:35 AM | INFO | Trying To Login for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/3/2025 | 4:10:36 AM | INFO | Login successful... 
+4/3/2025 | 4:10:36 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:10:36 AM | INFO | User ID: 9019841 | Twitter: @wildazalika | Total Points: 1008000 
+4/3/2025 | 4:10:36 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:10:37 AM | INFO | Last mining time: 4/2/2025, 4:10:36 AM
+4/3/2025 | 4:10:37 AM | INFO | Trying to start Mining for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/3/2025 | 4:10:38 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:10:38 AM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/3/2025 | 4:10:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xccb93e325ec7defa155919b9318f1f4aa4925c91635258733ee84dbe3b341f30 
