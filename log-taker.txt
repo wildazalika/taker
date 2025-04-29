@@ -4210,3 +4210,15 @@
 4/28/2025 | 8:08:56 PM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
 4/28/2025 | 8:09:00 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204654980831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a0e7b1335d60aca5c02383f234b148e1fb05a4b6a98478f635b1ad205bed68c3b8a05683e3572b22e4a54707d9b86dcae7cedf29d703254a829ecf43219b8a8e5681"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 4/28/2025 | 8:09:00 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/29/2025 | 12:40:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/29/2025 | 12:40:56 AM | INFO | Start process for wallet 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/29/2025 | 12:40:57 AM | INFO | Trying To Login for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/29/2025 | 12:40:58 AM | INFO | Login successful... 
+4/29/2025 | 12:40:58 AM | INFO | Trying to check user info... 
+4/29/2025 | 12:40:58 AM | INFO | User ID: 9019841 | Twitter: @wildazalika | Total Points: 1584000 
+4/29/2025 | 12:40:58 AM | INFO | Trying to check user miner status... 
+4/29/2025 | 12:40:59 AM | INFO | Last mining time: 4/27/2025, 8:08:48 PM
+4/29/2025 | 12:40:59 AM | INFO | Trying to start Mining for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/29/2025 | 12:41:00 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/29/2025 | 12:41:00 AM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+4/29/2025 | 12:41:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x28f12dc7f3e0e5a14cd9868b58a153c135b61379fd22f0757b6bcbf6062fe4aa 
