@@ -5023,3 +5023,16 @@
 5/13/2025 | 4:12:27 AM | INFO | Trying to check user miner status... 
 5/13/2025 | 4:12:32 AM | INFO | Last mining time: 5/12/2025, 4:13:36 AM
 5/13/2025 | 4:12:32 AM | WARN | Mining already started, next mining time is: 5/13/2025, 4:13:36 AM
+5/13/2025 | 8:12:24 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 8:12:24 AM | INFO | Start process for wallet 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/13/2025 | 8:12:25 AM | INFO | Trying To Login for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/13/2025 | 8:12:26 AM | INFO | Login successful... 
+5/13/2025 | 8:12:26 AM | INFO | Trying to check user info... 
+5/13/2025 | 8:12:26 AM | INFO | User ID: 9019841 | Twitter: @wildazalika | Total Points: 1872000 
+5/13/2025 | 8:12:26 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 8:12:29 AM | INFO | Last mining time: 5/11/2025, 12:45:00 AM
+5/13/2025 | 8:12:29 AM | INFO | Trying to start Mining for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/13/2025 | 8:12:32 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/13/2025 | 8:12:32 AM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/13/2025 | 8:12:33 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 8:12:33 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
