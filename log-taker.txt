@@ -5303,3 +5303,12 @@
 5/18/2025 | 12:45:33 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/18/2025 | 12:45:33 AM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
 5/18/2025 | 12:45:44 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x32941b201a6e0af80b1cdcb22560637eaf434e3f88b9d1cdee9068930adafab6 
+5/18/2025 | 4:14:38 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/18/2025 | 4:14:39 AM | INFO | Start process for wallet 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/18/2025 | 4:14:39 AM | INFO | Trying To Login for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+5/18/2025 | 4:14:40 AM | INFO | Login successful... 
+5/18/2025 | 4:14:40 AM | INFO | Trying to check user info... 
+5/18/2025 | 4:14:41 AM | INFO | User ID: 9019841 | Twitter: @wildazalika | Total Points: 1992000 
+5/18/2025 | 4:14:41 AM | INFO | Trying to check user miner status... 
+5/18/2025 | 4:14:42 AM | INFO | Last mining time: 5/18/2025, 12:45:39 AM
+5/18/2025 | 4:14:42 AM | WARN | Mining already started, next mining time is: 5/19/2025, 12:45:39 AM
