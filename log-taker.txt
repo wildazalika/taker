@@ -6197,3 +6197,15 @@
 6/3/2025 | 4:15:41 AM | INFO | Trying to check user miner status... 
 6/3/2025 | 4:15:41 AM | INFO | Last mining time: 6/2/2025, 4:20:18 AM
 6/3/2025 | 4:15:41 AM | WARN | Mining already started, next mining time is: 6/3/2025, 4:20:18 AM
+6/3/2025 | 8:13:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/3/2025 | 8:13:50 AM | INFO | Start process for wallet 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+6/3/2025 | 8:13:51 AM | INFO | Trying To Login for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+6/3/2025 | 8:13:52 AM | INFO | Login successful... 
+6/3/2025 | 8:13:52 AM | INFO | Trying to check user info... 
+6/3/2025 | 8:13:52 AM | INFO | User ID: 9019841 | Twitter: @wildazalika | Total Points: 2304000 
+6/3/2025 | 8:13:52 AM | INFO | Trying to check user miner status... 
+6/3/2025 | 8:13:53 AM | INFO | Last mining time: 6/2/2025, 4:20:18 AM
+6/3/2025 | 8:13:53 AM | INFO | Trying to start Mining for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+6/3/2025 | 8:13:54 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/3/2025 | 8:13:54 AM | INFO | Trying to activate mining on-chain for wallet: 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 
+6/3/2025 | 8:14:01 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2973e4c794ae06bee44950f9c6674d4e9e65eb6ee504343b0de3c72d85f25ff2 
